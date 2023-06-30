@@ -130,5 +130,6 @@ dmypy.json
 
 frontend/node_modules
 .github/
-.docker-compose.yml
+docker-compose.yml
 docker-compose.production.yml
+gateway/
