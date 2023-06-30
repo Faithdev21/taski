@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 frontend/node_modules
-.github/
 docker-compose.yml
 docker-compose.production.yml
 gateway/
